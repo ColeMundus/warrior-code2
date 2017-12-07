@@ -18,4 +18,6 @@ $WARRIOR \
   --data-dir /data/data \
   --warrior-hq http://warriorhq.archiveteam.org \
   --port 8001 \
-  --real-shutdown
+  --real-shutdown \
+  --concurrent 6 \
+  mundus2018
